@@ -1,0 +1,13 @@
+{
+  "name": "viral-prompts-admin",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Admin-only scripts for adding prompts to Firestore. Not part of the mobile app.",
+  "scripts": {
+    "add": "node addPrompt.js",
+    "add-batch": "node addPromptsBatch.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.1.0"
+  }
+}

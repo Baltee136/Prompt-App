@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Cyberpunk Neon Street Style",
+    "promptText": "Reimagine this photo in a cyberpunk style: neon pink and blue lighting, rain-slicked street reflections, futuristic city background, high contrast, cinematic color grade",
+    "category": "photo-editing",
+    "aiTool": "Midjourney",
+    "thumbnailUrl": "https://example.com/cyberpunk-thumb.jpg",
+    "exampleImages": []
+  },
+  {
+    "title": "Studio Ghibli Anime Portrait",
+    "promptText": "Convert this photo into a Studio Ghibli style anime illustration, soft watercolor textures, warm pastel palette, hand-drawn line art, whimsical background",
+    "category": "photo-editing",
+    "aiTool": "Nano Banana",
+    "thumbnailUrl": "https://example.com/ghibli-thumb.jpg",
+    "exampleImages": []
+  }
+]
